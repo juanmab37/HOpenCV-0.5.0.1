@@ -4,7 +4,11 @@ Versión actualizada de la libreria HOpenCV. Binding para haskell de OpenCV
 HOpenCV es un binding de OpenCV en C++ por medio de Foreing Function Interface en
 Haskell.
 
-#Instalación
+# Documentación
+
+Dentro de la carpeta doc/ podrán encontrar la documentación del proyecto como de la librería generada por haddock.
+
+# Instalación
 
 La librería tiene las siguientes dependencias de instalación:
 
@@ -23,12 +27,12 @@ ghc –make file.hs HOpenCV/CV/HOpenCV_wrap.cpp ‘pkg-config opencv –cflags �
 Dentro de la carpeta "examples" se encuentra los ejemplos.
 
 
-#Repositorio
+# Repositorio
 
 El proyecto se subió y publicó en git, compartiéndolo con sus creadores originales:
 
 https://github.com/juanmab37/HOpenCV-0.5.0.1
 
-#Autor
+# Autor
 
 Baruffaldi Juan Manuel
