@@ -36,4 +36,5 @@ https://github.com/juanmab37/HOpenCV-0.5.0.1
 # Autor
 
 Baruffaldi Juan Manuel
+
 baruffaldi.jm (at) gmail.com
