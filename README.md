@@ -29,8 +29,9 @@ Dentro de la carpeta "examples" se encuentra los ejemplos.
 
 # Repositorio
 
-El proyecto se subió y publicó en git, compartiéndolo con sus creadores originales:
+En la carpeta lib/ se encuentran las versiones anteriores de HOpenCV y CV-Combinator.
 
+El repositorio actual es:
 https://github.com/juanmab37/HOpenCV-0.5.0.1
 
 # Autor
